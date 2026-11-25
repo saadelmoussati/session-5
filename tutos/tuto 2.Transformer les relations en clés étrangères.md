@@ -1,6 +1,3 @@
-# MLD — Tables avec clés étrangères (1–N) du Blog
-
-```text
 Table : VILLE
 -------------
 id_ville (PK)

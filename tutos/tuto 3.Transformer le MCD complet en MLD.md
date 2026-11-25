@@ -1,6 +1,3 @@
-# MLD Complet du Blog (6 tables)
-
-```text
 Table : VILLE
 -------------
 id_ville (PK)
