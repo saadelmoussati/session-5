@@ -6,13 +6,18 @@ prenom_client
 telephone_client
 email_client
 
+Table : CATEGORIE
+-----------------
+id_categorie (PK)
+nom_categorie
+
 Table : REPAS
 -------------
 code_repas (PK)
 nom_repas
 description_repas
 prix_repas
-categorie_repas
+id_categorie (FK)
 
 Table : COMMANDE
 ----------------
